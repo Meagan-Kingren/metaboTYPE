@@ -21,4 +21,5 @@ Imports:
     tidyr,
     stats
 Suggests:
-    devtools   
+    devtools,
+    pkgdown
