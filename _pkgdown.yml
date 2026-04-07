@@ -31,10 +31,6 @@ reference:
       - calc_feeding_events
       - filter_feeding_events
 
-  - title: Other
-    desc: Other functions.
-    contents:
-      - metaboTYPE2.0-package
 footer:
   structure:
     left: developed_by
