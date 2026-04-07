@@ -1,26 +1,27 @@
----
-output: github_document
----
+
 Welcome to metaboTYPE!
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-
-
-# metaboTYPE2.0
+# metaboTYPE
 
 <!-- badges: start -->
-<img src="man/figures/logo.png" align="right" height="139" />
+
+# metaboTYPE <a href="https://meagan-kingren.github.io/metaboTYPE2.0/"><img src="man/figures/logo.png" align="right" height="122" alt="metaboTYPE website" /></a>
+
 <!-- badges: end -->
 
-The goal of metaboTYPE2.0 is to ...
+The goal of metaboTYPE is to enable easy alignment of multiple runs of
+indirect calorimetry data. This is increasingly common in well-powered
+studies with multiple groups. This package is designed to process time
+series data and then generate quick analyses and graphs.
 
 ## Installation
 
-You can install the development version of metaboTYPE2.0 from [GitHub](https://github.com/) with:
+You can install the development version of metaboTYPE from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("pak")
-pak::pak("Meagan-Kingren/metaboTYPE2.0")
+pak::pak("Meagan-Kingren/metaboTYPE")
 ```
-

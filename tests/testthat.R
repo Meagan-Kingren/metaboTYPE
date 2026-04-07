@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(metaboTYPE2.0)
+library(metaboTYPE)
 
-test_check("metaboTYPE2.0")
+test_check("metaboTYPE")
