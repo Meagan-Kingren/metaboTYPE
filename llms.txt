@@ -1,10 +1,10 @@
-# metaboTYPE
+# metaboTYPE2.0
 
 Welcome to metaboTYPE!
 
-The goal of metaboTYPE is to allow users to align multiple runs of
-indirect calorimetry data with different starting points and quickly
-analyze and visualize the data for further analysis.
+![](reference/figures/logo.png)
+
+The goal of metaboTYPE2.0 is to …
 
 ## Installation
 
