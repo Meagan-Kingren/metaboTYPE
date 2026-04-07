@@ -1,6 +1,6 @@
 Package: metaboTYPE2.0
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9
+Version: 1.0.0
 Authors@R:
     person("Meagan", "Kingren", , "drkingren@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
