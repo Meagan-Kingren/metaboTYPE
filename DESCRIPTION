@@ -20,3 +20,5 @@ Imports:
     rlang,
     tidyr,
     stats
+Suggests:
+    devtools   
