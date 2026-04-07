@@ -31,4 +31,6 @@ reference:
       - clean_RER
       - calc_feeding_events
       - filter_feeding_events
-
+navbar:
+  structure:
+    right: [search, github, lightswitch]
