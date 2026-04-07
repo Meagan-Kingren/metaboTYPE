@@ -35,6 +35,9 @@ graph_boxplot(
 
 \item{point_alpha}{opacity of each point}
 }
+\value{
+boxplot of data
+}
 \description{
 Once you create summary data, you can graph it all using boxplots.
 You can choose to do this from photoperiod data or from general summary data.

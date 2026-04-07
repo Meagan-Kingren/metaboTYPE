@@ -7,7 +7,7 @@
 #' @param bodymass_var body.mass
 #' @param photoperiod_var Null by default
 #'
-#' @returns
+#' @returns summary data for each column
 #' @export
 #'
 #' @examples

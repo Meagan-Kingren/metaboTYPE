@@ -14,7 +14,7 @@
 #' @param point_size point size for each mean in the boxplot
 #' @param point_alpha opacity of each point
 #'
-#' @returns
+#' @returns boxplot of data
 #' @export
 #'
 #' @examples

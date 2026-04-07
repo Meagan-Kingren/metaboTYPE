@@ -26,6 +26,9 @@ summarize_subjects(
 
 \item{photoperiod_var}{Null by default}
 }
+\value{
+summary data for each column
+}
 \description{
 Summarize each column in your dataframe
 }
