@@ -24,6 +24,7 @@ reference:
     contents:
       - align_to_common_time
       - align_to_photoperiod
+      - create_photoperiods
       - get_columns
       - summarize_subjects
       - add_exp_time
@@ -31,6 +32,8 @@ reference:
       - clean_RER
       - calc_feeding_events
       - filter_feeding_events
-navbar:
-  structure:
-    right: [search, github, lightswitch]
+
+  - title: Other
+    desc: Other functions.
+    contents:
+      - metaboTYPE2.0-package
