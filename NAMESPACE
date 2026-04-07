@@ -2,5 +2,13 @@
 
 export(align_to_common_time)
 export(align_to_photoperiod)
+export(calc_feeding_events)
+export(clean_PedMeters)
+export(clean_RER)
+export(filter_feeding_events)
+export(get_columns)
+export(plot_ts)
+export(plot_ts_24h)
+export(plot_ts_all)
 export(print_hello_user)
 export(print_hello_world)
