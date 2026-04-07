@@ -1,8 +1,48 @@
 # Package index
 
-## All functions
+## Functions that graph things
 
-- [`print_hello_user()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/print_hello_user.md)
-  : Print hello user
-- [`print_hello_world()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/print_hello_world.md)
-  : Print hello world
+These functions will all graph data.
+
+- [`plot_ts()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/plot_ts.md)
+  : Basic time series graph
+- [`plot_ts_24h()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/plot_ts_24h.md)
+  : Plot timeseries data showing the light/dark cycle
+- [`plot_ts_all()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/plot_ts_all.md)
+  : Plot all numeric columns in a dataframe
+- [`graph_boxplot()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/graph_boxplot.md)
+  : Create boxplots of summary data
+
+## Functions that organize data
+
+These functions will all arrange and clean data.
+
+- [`align_to_common_time()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/align_to_common_time.md)
+  : Align a dataframe to a common start date and time
+- [`align_to_photoperiod()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/align_to_photoperiod.md)
+  : Select photoperiod (light/dark cycle) for your time aligned
+  dataframe
+- [`create_photoperiods()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/create_photoperiods.md)
+  : Create photoperiod columns for better graphing purposes
+- [`get_columns()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/get_columns.md)
+  : Get all column names in a dataframe
+- [`summarize_subjects()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/summarize_subjects.md)
+  : Summarize each column in your dataframe
+- [`add_exp_time()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/add_exp_time.md)
+  : Add experimental time information
+- [`clean_PedMeters()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/clean_PedMeters.md)
+  : Filter excessively large running events out
+- [`clean_RER()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/clean_RER.md)
+  : Filter high and low RER values
+- [`calc_feeding_events()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/calc_feeding_events.md)
+  : Calculate feeding events from the cumulative food in column
+- [`filter_feeding_events()`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/filter_feeding_events.md)
+  : Title
+
+## Other
+
+Other functions.
+
+- [`metaboTYPE2.0`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/metaboTYPE2.0-package.md)
+  [`metaboTYPE2.0-package`](https://meagan-kingren.github.io/metaboTYPE2.0/reference/metaboTYPE2.0-package.md)
+  : metaboTYPE2.0: What the Package Does (One Line, Title Case)

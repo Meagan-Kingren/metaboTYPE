@@ -1,23 +1,17 @@
-# metaboTYPE2.0
+# metaboTYPE
 
-This is a package for aligning, analyzing, and graphing multiple runs of
-indirect calorimetry data.
+Welcome to metaboTYPE!
 
-The goal of metaboTYPE2.0 is to …
+The goal of metaboTYPE is to allow users to align multiple runs of
+indirect calorimetry data with different starting points and quickly
+analyze and visualize the data for further analysis.
 
 ## Installation
 
-You can install the development version of metaboTYPE2.0 like so:
+You can install the development version of metaboTYPE2.0 from
+[GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(metaboTYPE2.0)
-## basic example code
+# install.packages("pak")
+pak::pak("Meagan-Kingren/metaboTYPE2.0")
 ```

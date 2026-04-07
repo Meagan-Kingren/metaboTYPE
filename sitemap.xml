@@ -3,8 +3,21 @@
 <url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/LICENSE.html</loc></url>
 <url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/authors.html</loc></url>
 <url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/index.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/add_exp_time.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/align_to_common_time.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/align_to_photoperiod.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/calc_feeding_events.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/clean_PedMeters.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/clean_RER.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/create_photoperiods.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/filter_feeding_events.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/get_columns.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/graph_boxplot.html</loc></url>
 <url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/index.html</loc></url>
-<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/print_hello_user.html</loc></url>
-<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/print_hello_world.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/metaboTYPE2.0-package.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/plot_ts.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/plot_ts_24h.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/plot_ts_all.html</loc></url>
+<url><loc>https://meagan-kingren.github.io/metaboTYPE2.0/reference/summarize_subjects.html</loc></url>
 </urlset>
 
