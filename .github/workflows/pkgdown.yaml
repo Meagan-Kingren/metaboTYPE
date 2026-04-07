@@ -37,7 +37,10 @@ jobs:
           needs: website
 
       - name: Install devtools explicitly
-        run: install.packages('devtools')
+        run: |
+          if (!require("devtools", quietly = TRUE)) {
+            install.packages("devtools", repos = "https://packagemanager.posit.co/cran/__linux__/noble/latest")
+          }
         shell: Rscript {0}
 
       - name: Build site
